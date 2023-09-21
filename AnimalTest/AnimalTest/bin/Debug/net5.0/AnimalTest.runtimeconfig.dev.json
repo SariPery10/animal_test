@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\saripe\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\saripe\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "gpCltngPc9i5sO6O9DoWXGJqHXBX4fT2lSP27TduOBFt+qaEpafSscCAK272Ob7miOZ7xt7JE5xW5Kb4j6p5ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saripe\\source\\repos\\AnimalTest\\AnimalTest\\AnimalTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saripe\\.nuget\\packages\\assert\\4.2.1\\assert.4.2.1.nupkg.sha512",
+    "C:\\Users\\saripe\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\saripe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Assert 4.2.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Assert",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
