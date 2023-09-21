@@ -20,7 +20,6 @@ namespace AnimalTest.Test
 
         internal static void AnimalIsCarnivorous_SetCarnivorous_ValidateIsCarnivorous(Animal animal, bool isCarnivorous, bool setCarnivorous)
         {
-            ;
             Assert.IsEqual(animal.IsCarnivorous(), isCarnivorous);
             animal.SetCarnivorous(setCarnivorous);
             Assert.IsEqual(animal.IsCarnivorous(), setCarnivorous);
@@ -28,11 +27,9 @@ namespace AnimalTest.Test
 
         internal static void AnimalIsMammalian_SetMammalian_ValidateIsMammalian(Animal animal, bool isMammalian, bool setMammalian)
         {
-            ;
             Assert.IsEqual(animal.IsMammalian(), isMammalian);
             animal.SetMammalian(setMammalian);
             Assert.IsEqual(animal.IsMammalian(), setMammalian);
-
         }
     }
 }
